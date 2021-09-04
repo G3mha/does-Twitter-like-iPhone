@@ -1,2 +1,2 @@
-# projeto1-cdados
+# Projeto 1 - Ciência dos Dados
 Classificador de Tweets

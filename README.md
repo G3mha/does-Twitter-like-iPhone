@@ -1,5 +1,5 @@
 # Projeto 1 - Ciência dos Dados
-Classificador de Tweets sobre o produto: iPhone®
+Classificador de Tweets sobre o produto: iPhone® \n
 Linguaguem utilizada: Python
 
 # Professor Orientador deste projeto

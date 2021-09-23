@@ -14,3 +14,7 @@ MUITO RELEVANTE: falando objetivamente do iPhone, tipo opinião, dúvida ou dese
 - NEUTRO = 2
 - RELEVANTE = 3
 - MUITO RELEVANTE = 4
+
+# Referências Bibliográficas
+* Classificador Naive Bayes (método mais simples): https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
+* Classificador Naive Bayes (método mais complexo): https://arxiv.org/pdf/1410.5329.pdf

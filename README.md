@@ -1,4 +1,7 @@
 # Projeto 1 - Ciência dos Dados
+
+![alt text](photos/iphone_wallpaper.jpg)
+
 Classificador de Tweets sobre o produto: iPhone®
 
 Linguaguem utilizada: Python

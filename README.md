@@ -1,4 +1,4 @@
-# Projeto 1 - Ciência dos Dados
+# Classificador de Tweets - O Twitter gosta do iPhone?
 
 ![alt text](photos/iphone_wallpaper.jpg)
 
@@ -29,3 +29,5 @@ Enricco Gemha, Rafael Coca Leventhal, Marcelo Rabello Barranco
 # Referências Bibliográficas
 * Classificador Naive Bayes (método mais simples): https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
 * Classificador Naive Bayes (método mais complexo): https://arxiv.org/pdf/1410.5329.pdf
+
+_Projeto sendo mantido atualmente por Enricco Gemha_
